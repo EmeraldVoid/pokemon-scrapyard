@@ -21,7 +21,7 @@ Below is a list of projects I have worked on, categorized by their development s
 
 | **Project**        | **More Info** | **Status**  |
 |--------------------|--------------|------------| 
-| **Project Mirage** | [Details](gvyvyvuv)   | ![Project Planning](https://img.shields.io/badge/Project_Planning-003399) ![On Hold](https://img.shields.io/badge/On_Hold-ff0000) |  
+| **Project Mirage** | [Details](https://gyygbg.uibubub)   | ![Project Planning](https://img.shields.io/badge/Project_Planning-003399) ![On Hold](https://img.shields.io/badge/On_Hold-ff0000) |  
 | **Pokémon Solstice** | **Comming Soon** | ![Slow Development](https://img.shields.io/badge/Slow_Development-FF9900) |  
 
 Check out the projects, explore ideas, and feel free to contribute or provide feedback!
