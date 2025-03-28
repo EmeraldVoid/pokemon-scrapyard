@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: 
+title: Pokémon Scrapyard 
 # (string) Description of your wiki
-description: 
+description: A collection of unfinished Pokémon projects, concepts, and experiments built using Pokémon Essentials and PSDK. This repository serves as a hub for all my Pokémon projects—both finished and unfinished.
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
