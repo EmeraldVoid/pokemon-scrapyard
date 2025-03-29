@@ -18,6 +18,13 @@ The original plan for **Project Mirage** was to develop the game using the **Pok
 # Art  
 Due to budget constraints, some of the artwork for this project was generated using AI, as hiring a dedicated design team was not financially feasible. The developers acknowledge that AI-generated art (and writing) is a topic of debate within the community and respect individual preferences regarding its use. Despite this, the goal was always to bring the envisioned world to life in the most accessible way possible.  
 
+# Fakémon
+
+Project Mirage initially aimed to exclude Fakémon in order to simplify development. It was also intended to be a learning project for Emerald_Void, focused on familiarizing himself with the Essentials Kit.
+
+# A Happy Little Accident
+
+Several key concepts from Project Mirage that Emerald enjoyed were repurposed for another project, [Pokémon Solstice]().
 
 ---
 
