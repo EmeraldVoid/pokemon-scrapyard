@@ -35,7 +35,7 @@ Outside of Gym battles, Aiden enjoys exploring volcanic areas to observe Fire-ty
 
 | Pokémon  | Level | Gender | Ability | Moves |
 |----------|-------|--------|---------|-------|
-| Growlithe | 12 | Male | Intimidate | Ember, Bite, Leer, Howl |
-| Fletchinder | 14 | Female | Flame Body | Peck, Ember, Quick Attack, Agility |
+| [Growlithe](https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon)) | 12 | Male | Intimidate | Ember, Bite, Leer, Howl |
+| [Fletchinder](https://bulbapedia.bulbagarden.net/wiki/Fletchinder_(Pok%C3%A9mon)) | 14 | Female | Flame Body | Peck, Ember, Quick Attack, Agility |
 
 Aiden's team is designed to test a Trainer’s ability to handle **fast and aggressive Fire-type** strategies. His Pokémon use **speed and relentless attacks** to keep opponents on the defensive, forcing challengers to think on their feet.  
