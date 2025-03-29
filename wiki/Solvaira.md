@@ -73,7 +73,7 @@ The **Solvaira Pokémon League** is the governing body for official Pokémon bat
 | Gym Leader | Location | Type | Badge |  
 |------------|----------|------|--------|  
 | **[Aiden](https://emeraldvoid.github.io/pokemon-scrapyard/Aiden)** | Sunflare City | Fire | Ember Badge |  
-| **Ivy** | Hearthpine City | Grass | Canopy Badge |  
+| **[Ivy](https://emeraldvoid.github.io/pokemon-scrapyard/Ivy)** | Hearthpine City | Grass | Canopy Badge |  
 | **[Reed](https://emeraldvoid.github.io/pokemon-scrapyard/Reed)** | Stormport City | Water | Tidal Badge |  
 | **Elara** | Glacialis City | Ice | Frostbite Badge |  
 | **Orion** | Celestica City | Psychic | Nebula Badge |  
