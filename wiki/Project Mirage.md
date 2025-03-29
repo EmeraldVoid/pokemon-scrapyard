@@ -14,6 +14,7 @@ Project Mirage was ultimately put on hold due to a lack of creative "spark" that
 # Design  
 The original plan for **Project Mirage** was to develop the game using the **Pokémon Essentials Kit**, a popular fan-made framework for creating Pokémon-style games. The project aimed to experiment with procedural world-building using AI-generated concepts while maintaining the classic Pokémon gameplay structure.  
 
+Emerald based **Project Mirage** on **Generation 3**, specifically **Pokémon Fire Red**, using it as a foundation for move sets, art style, battle mechanics, and even the number of Pokémon gym leaders would have (including their levels and held items). To guide the development process, he utilized community resources like [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) and other wikis, alongside documentation, to help structure and define the world and its inhabitants with the assistance of ChatGPT.
 
 # Art  
 Due to budget constraints, some of the artwork for this project was generated using AI, as hiring a dedicated design team was not financially feasible. The developers acknowledge that AI-generated art (and writing) is a topic of debate within the community and respect individual preferences regarding its use. Despite this, the goal was always to bring the envisioned world to life in the most accessible way possible.  
