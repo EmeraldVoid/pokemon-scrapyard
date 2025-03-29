@@ -68,7 +68,7 @@ The region consists of three towns and seven cities, each with its own distinct 
 
 The **Solvaira Pokémon League** is the governing body for official Pokémon battles in the region. Trainers must collect **eight Gym Badges** before challenging the **Elite Four** and the **Champion**.  
 
-### Gym Leaders  
+## Gym Leaders  
 
 | Gym Leader | Location | Type | Badge |  
 |------------|----------|------|--------|  
@@ -83,7 +83,7 @@ The **Solvaira Pokémon League** is the governing body for official Pokémon bat
 
 ---
 
-### Elite Four  
+## Elite Four  
 
 | Member | Type |  
 |--------|------|  
@@ -92,7 +92,7 @@ The **Solvaira Pokémon League** is the governing body for official Pokémon bat
 | **Liora** | Fairy |  
 | **Hawk** | Flying |  
 
-### Champion  
+## Champion  
 
 | Member | Type(s) |  
 |--------|---------|  
