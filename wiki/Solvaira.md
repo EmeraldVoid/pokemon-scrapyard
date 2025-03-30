@@ -87,16 +87,16 @@ The **Solvaira Pokémon League** is the governing body for official Pokémon bat
 
 | Member | Type |  
 |--------|------|  
-| **Selene** | Dark |  
-| **Atlas** | Rock |  
-| **Liora** | Fairy |  
-| **Hawk** | Flying |  
+| **[Selene](https://emeraldvoid.github.io/pokemon-scrapyard/Selene)** | Dark |  
+| **[Atlas](https://emeraldvoid.github.io/pokemon-scrapyard/Atlas)** | Rock |  
+| **[Liora](https://emeraldvoid.github.io/pokemon-scrapyard/Liora)** | Fairy |  
+| **[Hawk](https://emeraldvoid.github.io/pokemon-scrapyard/Hawk)** | Flying |  
 
 ## Champion  
 
 | Member | Type(s) |  
 |--------|---------|  
-| **Darius** | Mixed |  
+| **[Darius](https://emeraldvoid.github.io/pokemon-scrapyard/Darius)** | Mixed |  
 
 ---
 
