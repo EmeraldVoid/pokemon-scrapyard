@@ -1,6 +1,5 @@
-## Elite Four Members
+# Selene
 
-### Selene
 | Attribute     | Information |
 |--------------|------------|
 | **Title**    | Mistress of Shadows |
