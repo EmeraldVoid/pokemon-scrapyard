@@ -1,4 +1,5 @@
-### Darius  
+### Darius 
+
 | Attribute     | Information |
 |--------------|------------|
 | **Title**    | The Rival Champion |
@@ -13,6 +14,7 @@
 | **Dislikes** | Unfair battles, overconfidence, giving up |
 
 #### Biography  
+
 Darius is the player's childhood friend and rival, sharing the same dream of becoming Champion. From the beginning of the journey, he constantly pushes the player forward, challenging them to become stronger. He is confident but never arrogant, always seeking to improve himself. His battle philosophy revolves around adaptability—he trains a diverse team capable of countering any strategy.
 
 Throughout the adventure, Darius grows from a determined rival into a worthy Champion. By the time the player faces him at the Pokémon League, he has formed a powerful team tailored to respond to the player’s chosen starter, proving that he has truly earned his place at the top.
