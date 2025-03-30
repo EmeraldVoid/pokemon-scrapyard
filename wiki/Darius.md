@@ -21,7 +21,7 @@ Throughout the adventure, Darius grows from a determined rival into a worthy Cha
 
 ---
 
-#Team:
+# Team:
 
 Darius's team varies depending on the player's choice of starter. Each team is tailored to provide a balanced challenge, reflecting Darius's adaptability and his strategy to counter the player's selection.
 
