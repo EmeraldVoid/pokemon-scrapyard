@@ -13,7 +13,7 @@
 | **Likes** | Fair fights, strong opponents, exploring new battle styles |
 | **Dislikes** | Unfair battles, overconfidence, giving up |
 
-#### Biography  
+### Biography  
 
 Darius is the player's childhood friend and rival, sharing the same dream of becoming Champion. From the beginning of the journey, he constantly pushes the player forward, challenging them to become stronger. He is confident but never arrogant, always seeking to improve himself. His battle philosophy revolves around adaptability—he trains a diverse team capable of countering any strategy.
 
@@ -21,7 +21,11 @@ Throughout the adventure, Darius grows from a determined rival into a worthy Cha
 
 ---
 
-#### If the player chose Grookey:
+#Team:
+
+Darius's team varies depending on the player's choice of starter. Each team is tailored to provide a balanced challenge, reflecting Darius's adaptability and his strategy to counter the player's selection.
+
+## If the player chose Grookey:
 
 | Pokémon | Level | Moves | Ability | Gender |
 |---------|-------|-------|---------|--------|
@@ -34,7 +38,7 @@ Throughout the adventure, Darius grows from a determined rival into a worthy Cha
 
 ---
 
-#### If the player chose Litten:
+## If the player chose Litten:
 
 | Pokémon | Level | Moves | Ability | Gender |
 |---------|-------|-------|---------|--------|
@@ -47,7 +51,7 @@ Throughout the adventure, Darius grows from a determined rival into a worthy Cha
 
 ---
 
-#### If the player chose Mudkip:
+## If the player chose Mudkip:
 
 | Pokémon | Level | Moves | Ability | Gender |
 |---------|-------|-------|---------|--------|
