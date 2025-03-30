@@ -52,7 +52,7 @@
 ### P
 
 - [Pages](https://emeraldvoid.github.io/pokemon-scrapyard/Pages)
-- [Pokémon Solstice](https://emeraldvoid.github.io/pokemon-scrapyard/Pokémon%20Solstice)
+- [Pokémon Solstice](https://emeraldvoid.github.io/pokemon-scrapyard/Pokemon%20Solstice)
 - [Project Mirage](https://emeraldvoid.github.io/pokemon-scrapyard/Project%20Mirage)
 
 
@@ -66,7 +66,7 @@
 ### S
 
 - [Selene](https://emeraldvoid.github.io/pokemon-scrapyard/Selene)
-- [Solvaria](https://emeraldvoid.github.io/pokemon-scrapyard/Solvaria)
+- [Solvaira](https://emeraldvoid.github.io/pokemon-scrapyard/Solvaira)
 
 ### T
 
