@@ -1,4 +1,5 @@
 ### Atlas
+
 | Attribute     | Information |
 |--------------|------------|
 | **Title**    | The Unbreakable Titan |
@@ -13,9 +14,11 @@
 | **Dislikes** | Water, fragile things, hesitation |
 
 #### Biography
+
 A former excavation expert, Atlas developed an admiration for Rock-type Pokémon through years of digging and discovering ancient fossils. He believes in endurance over brute force, and his defensive playstyle has frustrated many challengers.
 
 #### Team
+
 | Pokémon | Level | Moves | Ability | Gender |
 |---------|-------|-------|---------|--------|
 | [Tyranitar](https://bulbapedia.bulbagarden.net/wiki/Tyranitar_(Pokémon)) | 53 | Crunch, Stone Edge, Earthquake, Dragon Dance | Sand Stream | Male |
