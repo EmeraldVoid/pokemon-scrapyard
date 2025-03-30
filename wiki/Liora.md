@@ -1,4 +1,5 @@
-### Liora
+# Liora
+
 | Attribute     | Information |
 |--------------|------------|
 | **Title**    | The Enchanting Guardian |
@@ -12,10 +13,12 @@
 | **Likes** | Poetry, floral tea, elegant battles |
 | **Dislikes** | Rudeness, poison, thunderstorms |
 
-#### Biography
+### Biography
+
 Liora grew up admiring Fairy-type Pokémon for their beauty and hidden strength. She believes that battles should be graceful but deadly, and her calm demeanor hides a fierce strategic mind.
 
-#### Team
+## Team
+
 | Pokémon | Level | Moves | Ability | Gender |
 |---------|-------|-------|---------|--------|
 | [Gardevoir](https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pokémon)) | 54 | Moonblast, Psychic, Calm Mind, Shadow Ball | Synchronize | Female |
