@@ -1,4 +1,4 @@
-### Atlas
+# Atlas
 
 | Attribute     | Information |
 |--------------|------------|
@@ -13,11 +13,11 @@
 | **Likes** | Hiking, fossils, weightlifting |
 | **Dislikes** | Water, fragile things, hesitation |
 
-#### Biography
+## Biography
 
 A former excavation expert, Atlas developed an admiration for Rock-type Pokémon through years of digging and discovering ancient fossils. He believes in endurance over brute force, and his defensive playstyle has frustrated many challengers.
 
-#### Team
+## Team
 
 | Pokémon | Level | Moves | Ability | Gender |
 |---------|-------|-------|---------|--------|
