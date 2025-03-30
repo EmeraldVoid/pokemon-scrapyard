@@ -2,7 +2,7 @@
 
 The **Solvaira Region** is an independent region in the [Pokémon World](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_world). Unlike other known regions, Solvaira exists as a standalone landmass with its own unique ecosystem, culture, and Pokémon League. It is not directly connected to any previously established regions.  
 
-[Professor Laurel](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor) is the region’s resident [Pokémon Professor](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor), specializing in Pokémon adaptation and seasonal changes. Trainers beginning their journey in Solvaira can choose from **[Grookey](https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pok%C3%A9mon))** (Grass), **[Litten](https://bulbapedia.bulbagarden.net/wiki/Litten_(Pok%C3%A9mon))** (Fire), or **[Mudkip](https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon))** (Water) as their starter Pokémon.  
+[Professor Laurel](https://emeraldvoid.github.io/pokemon-scrapyard/professor%20laurel) is the region’s resident [Pokémon Professor](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor), specializing in Pokémon adaptation and seasonal changes. Trainers beginning their journey in Solvaira can choose from **[Grookey](https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pok%C3%A9mon))** (Grass), **[Litten](https://bulbapedia.bulbagarden.net/wiki/Litten_(Pok%C3%A9mon))** (Fire), or **[Mudkip](https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon))** (Water) as their starter Pokémon.  
 
 ---
 
