@@ -13,7 +13,7 @@
 | **Likes** | Poetry, floral tea, elegant battles |
 | **Dislikes** | Rudeness, poison, thunderstorms |
 
-### Biography
+## Biography
 
 Liora grew up admiring Fairy-type Pokémon for their beauty and hidden strength. She believes that battles should be graceful but deadly, and her calm demeanor hides a fierce strategic mind.
 
