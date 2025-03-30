@@ -2,7 +2,7 @@
 
 The **Solvaira Region** is an independent region in the [Pokémon World](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_world). Unlike other known regions, Solvaira exists as a standalone landmass with its own unique ecosystem, culture, and Pokémon League. It is not directly connected to any previously established regions.  
 
-[Professor Laurel](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor) is the region’s resident [Pokémon Professor](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor), specializing in Pokémon adaptation and seasonal changes. Trainers beginning their journey in Solvaira can choose from **Florabun** (Grass), **Emberuff** (Fire), or **Aquadart** (Water) as their starter Pokémon.  
+[Professor Laurel](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor) is the region’s resident [Pokémon Professor](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor), specializing in Pokémon adaptation and seasonal changes. Trainers beginning their journey in Solvaira can choose from **[Grookey](https://bulbapedia.bulbagarden.net/wiki/Grookey_(Pok%C3%A9mon))** (Grass), **[Litten](https://bulbapedia.bulbagarden.net/wiki/Litten_(Pok%C3%A9mon))** (Fire), or **[Mudkip](https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon))** (Water) as their starter Pokémon.  
 
 ---
 
@@ -12,7 +12,7 @@ The Solvaira Region was first inhabited by an ancient civilization known as the 
 
 Centuries later, Solvaira became a hub for Pokémon research due to its unique seasonal shifts that influence Pokémon behavior and evolution. Several Pokémon species found here exhibit **seasonal adaptations**, changing forms based on the environment. This discovery led to the establishment of the **Solvaira Pokémon Research Institute**, attracting scientists from around the world.  
 
-In modern times, Solvaira has grown into a thriving region known for its prestigious **Pokémon League Challenge**. However, a mysterious organization known as **Team Eclipse** has emerged, seeking to harness the power of the region’s legendary Pokémon for their own unknown agenda.  
+In modern times, Solvaira has grown into a thriving region known for its prestigious **Pokémon League Challenge**. However, a mysterious organization known as **[Team Eclipse](https://emeraldvoid.github.io/pokemon-scrapyard/Team%20Eclipse)** has emerged, seeking to harness the power of the region’s legendary Pokémon for their own unknown agenda.  
 
 ---
 
