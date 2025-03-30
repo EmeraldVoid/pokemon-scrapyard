@@ -13,11 +13,11 @@
 | **Likes** | Moonlit nights, strategy games, black coffee |
 | **Dislikes** | Bright lights, dishonesty, losing without a challenge |
 
-#### Biography
+## Biography
 
 Selene is a mysterious figure who prefers the solitude of the night. Once a feared Pokémon trainer in underground battle circuits, she later joined the Elite Four to test truly strong trainers. Many challengers have fallen to her calculated battle strategies, and she takes pride in outmaneuvering her opponents.
 
-#### Team
+## Team
 
 | Pokémon | Level | Moves | Ability | Gender |
 |---------|-------|-------|---------|--------|
