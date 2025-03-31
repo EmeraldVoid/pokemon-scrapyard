@@ -1,6 +1,6 @@
 # Elara  
 
-Elara is the Gym Leader of **Glacialis City Gym** and a specialist in **Ice-type** Pokémon. Trainers who defeat her earn the **Frostbite Badge**. Known for her calm and calculating battle style, Elara tests challengers by forcing them to endure a relentless onslaught of freezing conditions.  
+Elara is the [Gym Leader](https://emeraldvoid.github.io/pokemon-scrapyard/gym%20leader) of **Glacialis City Gym** and a specialist in **Ice-type** Pokémon. Trainers who defeat her earn the **Frostbite Badge**. Known for her calm and calculating battle style, Elara tests challengers by forcing them to endure a relentless onslaught of freezing conditions.  
 
 ## Trainer Profile  
 
