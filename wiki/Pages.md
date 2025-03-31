@@ -55,6 +55,7 @@
 
 - [Ivy](https://emeraldvoid.github.io/pokemon-scrapyard/Ivy)
   
+
 ## J
 
 
@@ -130,7 +131,7 @@
 
 ## U
 
----
+
 
 
 
@@ -138,22 +139,19 @@
 
 - [Vance](https://emeraldvoid.github.io/pokemon-scrapyard/Vance)
 
----
+
 
 
 ### W
 
----
 
 
 ### X
 
----
+
 
 
 ### Y
-
----
 
 
 ### Z
