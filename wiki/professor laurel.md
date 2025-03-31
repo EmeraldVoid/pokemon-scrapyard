@@ -1,5 +1,7 @@
 # Professor Laurel
 
+<p align="right"><img src="https://i.imgur.com/n4GfqFW.png"></p>
+
 **Professor Laurel** is a [Pokémon Professor](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor) who resides in the player's hometown in [Project Mirage](https://emeraldvoid.github.io/pokemon-scrapyard/Project%20Mirage). She is a well-respected researcher known for her work in Pokémon ecology and habitat preservation. As part of her research, she provides new trainers with their first Pokémon to encourage them to explore the world and form bonds with Pokémon.
 
 ## Starter Pokémon  
@@ -13,6 +15,7 @@ The player’s choice determines which Pokémon their [rival](https://emeraldvoi
 - If the player chooses **Mudkip**, the rival selects **Grookey**.
 
 ## Personal Information  
+
 | Attribute       | Information |
 |----------------|------------|
 | **Full Name**  | Professor Camilla Laurel |
@@ -25,7 +28,8 @@ The player’s choice determines which Pokémon their [rival](https://emeraldvoi
 | **Likes**      | Nature, Field Research, Helping New Trainers |
 | **Dislikes**   | Pollution, Pokémon Poaching, Reckless Battles |
 
-## Biography  
+## Biography 
+
 Professor Camilla Laurel has dedicated her life to studying the intricate relationships between Pokémon and their environments. Growing up in **Verdant Hollow**, a secluded town known for its lush forests and thriving Pokémon population, she developed a deep appreciation for the natural world at an early age. Her passion led her to study at Solvaria’s most prestigious research institution, where she specialized in Pokémon ecology.
 
 Unlike some professors who focus on Pokémon evolution or battle mechanics, Laurel’s research aims to document how Pokémon adapt to their surroundings and how human activity influences their populations. She strongly believes that trainers should understand the responsibility of raising Pokémon, not just for battles but also as partners in preserving the environment.
