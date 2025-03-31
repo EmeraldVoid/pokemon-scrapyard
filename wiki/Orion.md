@@ -1,6 +1,6 @@
 # Orion  
 
-Orion is the Gym Leader of **Celestica City Gym** and a specialist in **Psychic-type** Pokémon. Trainers who defeat him earn the **Nebula Badge**. A visionary thinker and master of mind games, Orion challenges opponents with his deep understanding of **psychic energy and battlefield manipulation**.  
+Orion is the [Gym Leader](https://emeraldvoid.github.io/pokemon-scrapyard/gym%20leader) of **Celestica City Gym** and a specialist in **Psychic-type** Pokémon. Trainers who defeat him earn the **Nebula Badge**. A visionary thinker and master of mind games, Orion challenges opponents with his deep understanding of **psychic energy and battlefield manipulation**.  
 
 ## Trainer Profile  
 
