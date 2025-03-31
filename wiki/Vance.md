@@ -1,6 +1,6 @@
 # Vance  
 
-Vance is the Gym Leader of **Twilight Hollow Gym** and a specialist in **Ghost-type** Pokémon. Trainers who defeat him earn the **Phantom Badge**. A master of illusions and psychological warfare, Vance’s battles are as much a test of a Trainer’s courage as they are of their skill.  
+Vance is the [Gym Leader](https://emeraldvoid.github.io/pokemon-scrapyard/gym%20leader) of **Twilight Hollow Gym** and a specialist in **Ghost-type** Pokémon. Trainers who defeat him earn the **Phantom Badge**. A master of illusions and psychological warfare, Vance’s battles are as much a test of a Trainer’s courage as they are of their skill.  
 
 ## Trainer Profile  
 
