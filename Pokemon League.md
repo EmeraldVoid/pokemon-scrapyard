@@ -1,4 +1,4 @@
-# Solvaira Pokemon League.md
+# The Pokemon League.md
 
 The Pokémon League is the ultimate challenge for trainers in the Solvaria region, representing the pinnacle of competitive battling. It is an official governing body that oversees Pokémon battles, maintains the integrity of competitive play, and serves as the final destination for trainers who seek to prove themselves as the strongest in the region. The League consists of the Elite Four and the Champion, all of whom must be defeated in succession for a challenger to claim the title. Unlike [Gym Leaders](https://emeraldvoid.github.io/pokemon-scrapyard/gym%20leader), who test a trainer’s ability at various stages of their journey, the Pokémon League exists as a true final exam, where only the most skilled and dedicated trainers can succeed.
 
