@@ -1,6 +1,6 @@
 # Rowan  
 
-Rowan is the Gym Leader of **Mirage Metropolis Gym** and a specialist in **Dragon-type** Pokémon. Trainers who defeat him earn the **Apex Badge**. Known for his **unyielding battle style and fierce loyalty to his Pokémon**, Rowan is a powerful opponent who embodies the **strength and majesty of dragons**.  
+Rowan is the [Gym Leader](https://emeraldvoid.github.io/pokemon-scrapyard/gym%20leader) of **Mirage Metropolis Gym** and a specialist in **Dragon-type** Pokémon. Trainers who defeat him earn the **Apex Badge**. Known for his **unyielding battle style and fierce loyalty to his Pokémon**, Rowan is a powerful opponent who embodies the **strength and majesty of dragons**.  
 
 ## Trainer Profile  
 
