@@ -36,4 +36,4 @@ Several key concepts from Project Mirage that Emerald enjoyed were repurposed fo
 # Related Articles 
 
 - [Solvaira Region](https://emeraldvoid.github.io/pokemon-scrapyard/Solvaira)  
-- [Solvaira Pokémon League](/Solvaira%20Pokemon%20League)
+- [Solvaira Pokémon League](https://emeraldvoid.github.io/pokemon-scrapyard/Solvaira%20Pokemon%20League)
