@@ -1,6 +1,6 @@
 # Aiden  
 
-Aiden is the Gym Leader of **Sunflare Gym** and a specialist in **Fire-type** Pokémon. Trainers who defeat him earn the **Ember Badge**. Known for his fiery determination and relentless battle style, Aiden is a formidable opponent for any aspiring Trainer.  
+Aiden is the [Gym Leader](https://emeraldvoid.github.io/pokemon-scrapyard/gym%20leader) of **Sunflare Gym** and a specialist in **Fire-type** Pokémon. Trainers who defeat him earn the **Ember Badge**. Known for his fiery determination and relentless battle style, Aiden is a formidable opponent for any aspiring Trainer.  
 
 # Trainer Profile  
 
