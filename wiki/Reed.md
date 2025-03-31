@@ -1,6 +1,6 @@
 # Reed  
 
-Reed is the Gym Leader of **Stormport City Gym** and a specialist in **Water-type** Pokémon. Trainers who defeat him earn the **Tidal Badge**. Known for his adaptability and unshakable demeanor, Reed commands the battlefield like an unpredictable ocean current, keeping challengers guessing at every turn.  
+Reed is the [Gym Leader](https://emeraldvoid.github.io/pokemon-scrapyard/gym%20leader) of **Stormport City Gym** and a specialist in **Water-type** Pokémon. Trainers who defeat him earn the **Tidal Badge**. Known for his adaptability and unshakable demeanor, Reed commands the battlefield like an unpredictable ocean current, keeping challengers guessing at every turn.  
 
 ## Trainer Profile  
 
