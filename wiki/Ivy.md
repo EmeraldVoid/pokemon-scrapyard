@@ -1,6 +1,6 @@
 # Ivy  
 
-Ivy is the Gym Leader of **Hearthpine City Gym** and a specialist in **Grass-type** Pokémon. Trainers who defeat her earn the **Canopy Badge**. With a deep connection to nature and a strategic battle style, Ivy challenges Trainers to think ahead and adapt to the ever-growing battlefield.  
+Ivy is the [Gym Leader](https://emeraldvoid.github.io/pokemon-scrapyard/gym%20leader) of **Hearthpine City Gym** and a specialist in **Grass-type** Pokémon. Trainers who defeat her earn the **Canopy Badge**. With a deep connection to nature and a strategic battle style, Ivy challenges Trainers to think ahead and adapt to the ever-growing battlefield.  
 
 ## Trainer Profile  
 
