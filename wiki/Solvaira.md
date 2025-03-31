@@ -12,7 +12,7 @@ The Solvaira Region was first inhabited by an ancient civilization known as the 
 
 Centuries later, Solvaira became a hub for Pokémon research due to its unique seasonal shifts that influence Pokémon behavior and evolution. Several Pokémon species found here exhibit **seasonal adaptations**, changing forms based on the environment. This discovery led to the establishment of the **Solvaira Pokémon Research Institute**, attracting scientists from around the world.  
 
-In modern times, Solvaira has grown into a thriving region known for its prestigious **Pokémon League Challenge**. However, a mysterious organization known as **[Team Eclipse](https://emeraldvoid.github.io/pokemon-scrapyard/Team%20Eclipse)** has emerged, seeking to harness the power of the region’s legendary Pokémon for their own unknown agenda.  
+In modern times, Solvaira has grown into a thriving region known for its prestigious **[Pokémon League](https://emeraldvoid.github.io/pokemon-scrapyard/pokemon%20league) Challenge**. However, a mysterious organization known as **[Team Eclipse](https://emeraldvoid.github.io/pokemon-scrapyard/Team%20Eclipse)** has emerged, seeking to harness the power of the region’s legendary Pokémon for their own unknown agenda.  
 
 ---
 
@@ -25,7 +25,7 @@ The Solvaira Region is characterized by its **dramatic seasonal shifts**, with d
 - **Crimson Canopy**: An autumnal forest with golden leaves year-round, inhabited by Bug-, Ghost-, and Grass-type Pokémon.  
 - **Frosthollow Peaks**: A frigid, snow-covered mountain range where Ice-types dominate, and blizzards are common.  
 
-The region is also home to expansive lakes, underground cave systems, and a sprawling metropolitan city where the Pokémon League headquarters is located.  
+The region is also home to expansive lakes, underground cave systems, and a sprawling metropolitan city where the [Pokémon League](https://emeraldvoid.github.io/pokemon-scrapyard/pokemon%20league) headquarters is located.  
 
 ---
 
