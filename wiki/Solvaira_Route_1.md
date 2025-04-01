@@ -46,13 +46,12 @@ Solvaira Route 1 is a lush, scenic route that stretches from the starter town to
 
 ### **Youngster Alex**
 
-
 |                                               | **Pokemon**                                                | **Level** | **Moves**     |
 |-----------------------------------------------|------------------------------------------------------------|-----------|---------------|
 | ![Youngster](https://i.imgur.com/Q9Qec5u.png) |                                                            |           |               |
 |                                               | [Pidgey](https://bulbapedia.bulbagarden.net/wiki/Pidgey)   | Lv. 5     | Tackle, Growl |
 |                                               | [Rattata](https://bulbapedia.bulbagarden.net/wiki/Rattata) | Lv. 5     | Tackle, Growl |
----
+
 
 ### **Hiker John**
 
@@ -62,7 +61,7 @@ Solvaira Route 1 is a lush, scenic route that stretches from the starter town to
 |                                           | [Geodude](https://bulbapedia.bulbagarden.net/wiki/Geodude) | Lv. 7     | Tackle, Defense Curl |
 |                                           | [Onix](https://bulbapedia.bulbagarden.net/wiki/Onix)       | Lv. 8     | Tackle, Bind         |
 
----
+
 
 ### **Lass Sarah**
 
