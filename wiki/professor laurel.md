@@ -1,8 +1,10 @@
 # Professor Laurel
 
+**Professor Laurel** is a [Pokémon Professor](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor) who resides in the player's hometown in [Project Mirage](https://emeraldvoid.github.io/pokemon-scrapyard/Project%20Mirage). She is a well-respected researcher known for her work in Pokémon ecology and habitat preservation. As part of her research, she provides new trainers with their first Pokémon to encourage them to explore the world and form bonds with Pokémon.
+
 <p align="right"><img src="https://i.imgur.com/n4GfqFW.png"></p>
 
-**Professor Laurel** is a [Pokémon Professor](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Professor) who resides in the player's hometown in [Project Mirage](https://emeraldvoid.github.io/pokemon-scrapyard/Project%20Mirage). She is a well-respected researcher known for her work in Pokémon ecology and habitat preservation. As part of her research, she provides new trainers with their first Pokémon to encourage them to explore the world and form bonds with Pokémon.
+
 
 ## Starter Pokémon  
 Professor Laurel offers the player one of three Pokémon to begin their journey:
