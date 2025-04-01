@@ -41,7 +41,7 @@
 
 ## G
 
-
+- [Gym Leader](https://emeraldvoid.github.io/pokemon-scrapyard/gym%20leader)
 
 
 ## H
@@ -94,9 +94,12 @@
 
 ## P
 
-- [Pages](https://emeraldvoid.github.io/pokemon-scrapyard/Pages)
-- [Pokémon Solstice](https://emeraldvoid.github.io/pokemon-scrapyard/Pokemon%20Solstice)
-- [Project Mirage](https://emeraldvoid.github.io/pokemon-scrapyard/Project%20Mirage)
+- [Pages](https://emeraldvoid.github.io/pokemon-scrapyard/Pages)  
+- [Pokémon League](https://emeraldvoid.github.io/pokemon-scrapyard/pokemon%20league)  
+- [Pokémon Solstice](https://emeraldvoid.github.io/pokemon-scrapyard/Pokemon%20Solstice)  
+- [Professor Laurel](https://emeraldvoid.github.io/pokemon-scrapyard/professor%20laurel)  
+- [Project Mirage](https://emeraldvoid.github.io/pokemon-scrapyard/Project%20Mirage)  
+
 
 
 
@@ -124,6 +127,7 @@
 
 ## T
 
+- [Team Eclipse](https://emeraldvoid.github.io/pokemon-scrapyard/Team%20Eclipse)
 - [Terra](https://emeraldvoid.github.io/pokemon-scrapyard/Terra)
 
 
