@@ -69,6 +69,7 @@
 ## L
 
 - [Liora](https://emeraldvoid.github.io/pokemon-scrapyard/Liora)
+- [List of Fakémon](https://emeraldvoid.github.io/pokemon-scrapyard/list_of_fakemon)
 
 
 
