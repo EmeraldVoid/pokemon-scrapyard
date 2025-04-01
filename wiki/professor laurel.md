@@ -9,7 +9,7 @@
 ## Starter Pokémon  
 Professor Laurel offers the player one of three Pokémon to begin their journey:
 
-<p align="center"><img src="https://i.imgur.com/rBSaUXA.png"></p>
+<img src="https://i.imgur.com/rBSaUXA.png">
 
 The player’s choice determines which Pokémon their [rival](https://emeraldvoid.github.io/pokemon-scrapyard/Darius) selects:
 - If the player chooses **Grookey**, the rival selects **Litten**.
