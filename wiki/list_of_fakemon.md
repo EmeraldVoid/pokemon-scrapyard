@@ -9,6 +9,8 @@
 
 ## D
 
+- [Draclysm](https://emeraldvoid.github.io/pokemon-scrapyard/draclysm_(fakemon))
+
 ## E
 
 ## F
