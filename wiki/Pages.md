@@ -113,6 +113,7 @@
 ## R
 
 - [Reed](https://emeraldvoid.github.io/pokemon-scrapyard/Reed)
+- [Route 1](https://emeraldvoid.github.io/pokemon-scrapyard/Route_1) 
 - [Rowan](https://emeraldvoid.github.io/pokemon-scrapyard/Rowan)
 
 
