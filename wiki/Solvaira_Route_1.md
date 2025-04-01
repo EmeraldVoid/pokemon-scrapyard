@@ -10,24 +10,22 @@ Solvaira Route 1 is a lush, scenic route that stretches from the starter town to
 
 | Item                 | Location         |
 |----------------------|------------------|
-| Potion               | Near the first bridge |
-| Poké Ball            | By the tall grass patches |
-| Antidote             | Near a tree near the road |
-| Super Potion         | On a small ledge to the side of the path |
-| Paralyze Heal        | Behind a rock near a waterfall |
-| Repel                | In a hidden grove along the route |
-
-
+| ![Potion](https://i.imgur.com/1UMdtFN.png)  | Near the first bridge |
+| ![Poké Ball](https://i.imgur.com/1ymCNVr.png) | By the tall grass patches |
+| ![Antidote](https://i.imgur.com/8TRmbP3.png) | Near a tree near the road |
+| ![Super Potion](https://i.imgur.com/UdgxkV3.png) | On a small ledge to the side of the path |
+| ![Paralyze Heal](https://i.imgur.com/5gdBf1M.png) | Behind a rock near a waterfall |
+| ![Repel](https://i.imgur.com/ShfZhoa.png)  | In a hidden grove along the route |
 
 ## **Berry Trees**  
 
 | Berry Type           | Location          |
 |----------------------|-------------------|
-| Oran Berry           | Near the first bridge |
-| Sitrus Berry         | Near the entrance to the tall grass area |
-| Pecha Berry          | By a rocky outcrop to the west |
-| Leppa Berry          | Behind a small tree at the edge of the path |
-| Rawst Berry          | Near the route's entrance to the next town |
+| ![Oran Berry](https://i.imgur.com/cbVdz9L.png)           | Near the first bridge |
+| ![Sitrus Berry](https://i.imgur.com/5MbemxL.png)         | Near the entrance to the tall grass area |
+| ![Pecha Berry](https://i.imgur.com/Ksqlhrw.png)          | By a rocky outcrop to the west |
+| ![Leppa Berry ](https://i.imgur.com/vv6orBf.png)        | Behind a small tree at the edge of the path |
+| ![Rawst Berry](https://i.imgur.com/4BcJBQ1.png)          | Near the route's entrance to the next town |
 
 
 
@@ -46,34 +44,32 @@ Solvaira Route 1 is a lush, scenic route that stretches from the starter town to
 
 ## **Trainers**  
 
-### **Trainer 1 - Youngster Alex**  
-| Pokémon               | Level  | Moves                             |  
-|-----------------------|--------|-----------------------------------|  
-| [Pidgey](https://bulbapedia.bulbagarden.net/wiki/Pidgey)  | 5      | Tackle, Sand Attack              |  
-| [Rattata](https://bulbapedia.bulbagarden.net/wiki/Rattata) | 4      | Tackle, Tail Whip                |  
+### **Youngster Alex**
 
-**Reward for Winning:** 100 Poke Dollars
+|                                               | **Pokemon**                                                | **Level** | **Moves**     |   |
+|-----------------------------------------------|------------------------------------------------------------|-----------|---------------|---|
+| ![Youngster](https://i.imgur.com/Q9Qec5u.png) |                                                            |           |               |   |
+|                                               | [Pidgey](https://bulbapedia.bulbagarden.net/wiki/Pidgey)   | Lv. 5     | Tackle, Growl |   |
+|                                               | [Rattata](https://bulbapedia.bulbagarden.net/wiki/Rattata) | Lv. 5     | Tackle, Growl |   |
+---
 
+### **Hiker John**
 
+|                                           | **Pokemon**                                                | **Level** | **Moves**            |   |
+|-------------------------------------------|------------------------------------------------------------|-----------|----------------------|---|
+| ![Hiker](https://i.imgur.com/v9dU5gl.png) |                                                            |           |                      |   |
+|                                           | [Geodude](https://bulbapedia.bulbagarden.net/wiki/Geodude) | Lv. 7     | Tackle, Defense Curl |   |
+|                                           | [Onix](https://bulbapedia.bulbagarden.net/wiki/Onix)       | Lv. 8     | Tackle, Bind         |   |
 
-### **Trainer 2 - Hiker John**  
-| Pokémon               | Level  | Moves                             |  
-|-----------------------|--------|-----------------------------------|  
-| [Geodude](https://bulbapedia.bulbagarden.net/wiki/Geodude) | 6      | Tackle, Defense Curl             |  
-| [Onix](https://bulbapedia.bulbagarden.net/wiki/Onix)       | 8      | Tackle, Bind                     |  
+---
 
-**Reward for Winning:** 150 Poke Dollars  
+### **Lass Sarah**
 
-
-
-### **Trainer 3 - Lass Sarah**  
-| Pokémon               | Level  | Moves                             |  
-|-----------------------|--------|-----------------------------------|  
-| [Caterpie](https://bulbapedia.bulbagarden.net/wiki/Caterpie) | 4      | Tackle, String Shot              |  
-| [Zubat](https://bulbapedia.bulbagarden.net/wiki/Zubat)     | 5      | Leech Life, Supersonic           |  
-
-**Reward for Winning:** 120 Poke Dollars  
-
+|                                          | **Pokemon**                                                      | **Level** | **Moves**       |   |
+|------------------------------------------|------------------------------------------------------------------|-----------|-----------------|---|
+| ![Lass](https://i.imgur.com/CPzjwhZ.png) |                                                                  |           |                 |   |
+|                                          | [Pidgey](https://bulbapedia.bulbagarden.net/wiki/Pidgey)         | Lv. 5     | Tackle, Growl   |   |
+|                                          | [Bellsprout](https://bulbapedia.bulbagarden.net/wiki/Bellsprout) | Lv. 6     | Vine Whip, Wrap |   |
 
 
 ### **Important Notes:**  
