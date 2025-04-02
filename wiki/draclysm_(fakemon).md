@@ -121,7 +121,7 @@ Draclysm does not evolve. It is classified as a Legendary Pokémon.
       <td>15</td>
     </tr>
     <tr>
-      <td><img src="https://archives.bulbagarden.net/media/upload/3/3c/Bag_TM_Dragon_SV_Sprite.png" width="32" height="32"></td>
+      <td><img src="https://i.imgur.com/W6sRfQc.png" width="32" height="32"></td>
       <td>TM42</td>
       <td>Dragon Pulse</td>
       <td>Dragon</td>
