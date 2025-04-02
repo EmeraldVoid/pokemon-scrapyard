@@ -180,8 +180,7 @@ Draclysm does not evolve. It is classified as a Legendary Pokémon.
       <td>95</td>
       <td>15</td>
     </tr>
-  </table>
-</div>
+  </table></div>
 
 # Notes from the Designers
 
