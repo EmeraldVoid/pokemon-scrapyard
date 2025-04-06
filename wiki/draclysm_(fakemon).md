@@ -79,7 +79,8 @@ Draclysm does not evolve. It is classified as a Legendary Pokémon.
 
 ### **By TM**  
 
-<table border="1">
+<table>
+  <thead>
     <tr>
       <th>Icon</th>
       <th>TM #</th>
@@ -90,97 +91,102 @@ Draclysm does not evolve. It is classified as a Legendary Pokémon.
       <th>Accuracy</th>
       <th>PP</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td><img src="https://archives.bulbagarden.net/media/upload/9/93/Bag_TM_Poison_SV_Sprite.png" width="32" height="32"></td> <!-- Replace with specific move icon -->
+      <td><img src="https://i.imgur.com/XYBHmCk.png" width="32" height="32" /></td>
       <td>TM06</td>
       <td>Toxic</td>
       <td>Poison</td>
-      <td><img src="https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png"> Status</td>
+      <td><img src="https://i.imgur.com/ldXhXVj.png" /> Status</td>
       <td>—</td>
       <td>90</td>
       <td>10</td>
     </tr>
     <tr>
-      <td><img src="https://archives.bulbagarden.net/media/upload/7/74/Bag_TM_Electric_SV_Sprite.png" width="32" height="32"></td>
+      <td><img src="https://i.imgur.com/93khkT6.png" width="32" height="32" /></td>
       <td>TM24</td>
       <td>Thunderbolt</td>
       <td>Electric</td>
-      <td><img src="https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png"> Special</td>
+      <td><img src="https://i.imgur.com/zeyS5Ds.png" /> Special</td>
       <td>90</td>
       <td>100</td>
       <td>15</td>
     </tr>
     <tr>
-      <td><img src="https://archives.bulbagarden.net/media/upload/e/e3/Bag_TM_Ghost_SV_Sprite.png" width="32" height="32"></td>
+      <td><img src="https://i.imgur.com/XYBHmCk.png" width="32" height="32" /></td>
       <td>TM30</td>
       <td>Shadow Ball</td>
       <td>Ghost</td>
-      <td><img src="https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png"> Special</td>
+      <td><img src="https://i.imgur.com/zeyS5Ds.png" /> Special</td>
       <td>80</td>
       <td>100</td>
       <td>15</td>
     </tr>
     <tr>
-      <td><img src="https://i.imgur.com/W6sRfQc.png" width="32" height="32"></td>
+      <td><img src="https://i.imgur.com/YovyiCh.png" width="32" height="32" /></td>
       <td>TM42</td>
       <td>Dragon Pulse</td>
       <td>Dragon</td>
-      <td><img src="https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png"> Special</td>
+      <td><img src="https://i.imgur.com/zeyS5Ds.png" /> Special</td>
       <td>85</td>
       <td>100</td>
       <td>10</td>
     </tr>
     <tr>
-      <td><img src="https://archives.bulbagarden.net/media/upload/2/29/Bag_TM_Fighting_SV_Sprite.png" width="32" height="32"></td>
+      <td><img src="https://i.imgur.com/7ZJf0dD.png" width="32" height="32" /></td>
       <td>TM52</td>
       <td>Focus Blast</td>
       <td>Fighting</td>
-      <td><img src="https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png"> Special</td>
+      <td><img src="https://i.imgur.com/zeyS5Ds.png" /> Special</td>
       <td>120</td>
       <td>70</td>
       <td>5</td>
     </tr>
     <tr>
-      <td><img src="https://archives.bulbagarden.net/media/upload/a/a5/Bag_TM_Normal_SV_Sprite.png" width="32" height="32"></td>
+      <td><img src="https://i.imgur.com/ut4Hgmt.png" width="32" height="32" /></td>
       <td>TM68</td>
       <td>Giga Impact</td>
       <td>Normal</td>
-      <td><img src="https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png"> Physical</td>
+      <td><img src="https://i.imgur.com/b5RY8nm.png" /> Physical</td>
       <td>150</td>
       <td>90</td>
       <td>5</td>
     </tr>
     <tr>
-      <td><img src="https://archives.bulbagarden.net/media/upload/0/0d/Bag_TM_Dark_SV_Sprite.png" width="32" height="32"></td>
+      <td><img src="https://i.imgur.com/tF3qOp3.png" width="32" height="32" /></td>
       <td>TM87</td>
       <td>Darkest Lariat</td>
       <td>Dark</td>
-      <td><img src="https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png"> Physical</td>
+      <td><img src="https://i.imgur.com/b5RY8nm.png" /> Physical</td>
       <td>85</td>
       <td>100</td>
       <td>10</td>
     </tr>
     <tr>
-      <td><img src="https://archives.bulbagarden.net/media/upload/a/a5/Bag_TM_Normal_SV_Sprite.png" width="32" height="32"></td>
+      <td><img src="https://i.imgur.com/ut4Hgmt.png" width="32" height="32" /></td>
       <td>TM90</td>
       <td>Substitute</td>
       <td>Normal</td>
-      <td><img src="https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png"> Status</td>
+      <td><img src="https://i.imgur.com/ldXhXVj.png" /> Status</td>
       <td>—</td>
       <td>—</td>
       <td>10</td>
     </tr>
     <tr>
-      <td><img src="https://archives.bulbagarden.net/media/upload/0/0d/Bag_TM_Dark_SV_Sprite.png" width="32" height="32"></td>
+      <td><img src="https://i.imgur.com/tF3qOp3.png" width="32" height="32" /></td>
       <td>TM95</td>
       <td>Snarl</td>
       <td>Dark</td>
-      <td><img src="https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png"> Special</td>
+      <td><img src="https://i.imgur.com/zeyS5Ds.png" /> Special</td>
       <td>55</td>
       <td>95</td>
       <td>15</td>
     </tr>
-  </table></div>
+  </tbody>
+</table>
+
+
 
 # Notes from the Designers
 
