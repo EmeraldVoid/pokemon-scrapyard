@@ -1,6 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/yEHRlqI.png"></p>
 <h3 align="center"><i>Issue #1 - 4/6/25</i></h3>
 
+Find the complete list of "Behind the Seasons" devlopment blogs [here](https://emeraldvoid.github.io/pokemon-scrapyard/behind_the_seasons)
+
 ## What is this?
 
 This is a development log and journal where I document my thoughts, progress, and random musings about *[Pokémon Solstice](https://emeraldvoid.github.io/pokemon-scrapyard/Pokemon%20Solstice)*. It’s a space for me to reflect on the game’s creation and share updates as I go.
