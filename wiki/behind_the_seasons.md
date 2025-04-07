@@ -8,5 +8,5 @@ This is a development log and journal where I document my thoughts, progress, an
 
 |   | **Issue/Date**          | **Link** |
 |---|-------------------------|----------|
-| 📗 | *Issue #01 (4/06/2025)* |          |
+| 📗 | *Issue #01 (4/06/2025)* |   [READ HERE](https://emeraldvoid.github.io/pokemon-scrapyard/behind_the_seasons_1)       |
 | 📗 |                         |          |
