@@ -12,7 +12,7 @@
 
 ## B
 
-
+- [Behind the Seasons](https://emeraldvoid.github.io/pokemon-scrapyard/behind_the_seasons)
 
 
 ## C
