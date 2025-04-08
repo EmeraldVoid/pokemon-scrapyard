@@ -71,9 +71,9 @@ defaults:
       path: "wiki"
     values:
       permalink: /:basename
--
+ -
     scope:
-      path: ""
+      path: "" # an empty string here means all files in the project
     values:
       layout: "git-wiki-bs-united"
  -
