@@ -1,3 +1,5 @@
+**Related Article:** [Elite Four](https://emeraldvoid.github.io/pokemon-scrapyard/Elite_Four)
+
 # Liora
 
 | Attribute     | Information |
